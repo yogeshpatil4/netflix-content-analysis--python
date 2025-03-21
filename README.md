@@ -4,20 +4,24 @@
 This project analyzes Netflix’s content strategy using Python. We examine how factors like **content type, language, release trends, and seasonal timing** impact viewership.
 
 ## 📂 Table of Contents
-- [Project Overview](#📌-project-overview)
-- [Dataset](#📂-dataset)
-- [Objectives](#📍-objectives)
-- [Features & Analysis](#📊-features--analysis)
-- [Key Visualizations](#📊-key-visualizations)
-- [Conclusion](#📍-conclusion)
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Objectives](#objectives)
+- [Features & Analysis](#features--analysis)
+- [Key Visualizations](#key-visualizations)
+- [Conclusion](#conclusion)
+- [Next Steps](#next-steps)
 
 ## 📂 Dataset
 The dataset contains information about Netflix content, including:
-- **Title**: Name of the movie/show.
-- **Hours Viewed**: Total watch hours.
-- **Language**: Primary language of the content.
-- **Content Type**: Whether it's a movie or a show.
-- **Release Date**: When it was released.
+
+| Feature           | Description |
+|------------------|-------------|
+| **Title**         | Name of the movie/show |
+| **Hours Viewed**  | Total watch hours |
+| **Language**      | Primary language of the content |
+| **Content Type**  | Whether it's a movie or a show |
+| **Release Date**  | When it was released |
 
 📂 **Source:** [Netflix Content Dataset 2023](https://statso.io/netflix-content-strategy-case-study/)
 
@@ -54,6 +58,12 @@ _(Add screenshots of your visualizations)_
 ```markdown
 ![Top 10 Most Watched Shows](images/top_10_watched.png)
 ![Viewership by Release Month](images/monthly_trends.png)
+![Movies vs. Shows Distribution](images/movies_vs_shows.png)
+![Viewership by Season](images/viewership_by_season.png)
+![Language-Based Viewership Trends](images/language_trends.png)
+![Weekly Release Patterns](images/weekly_release_patterns.png)
+![Monthly Release Count vs. Viewership](images/monthly_release_vs_viewership.png)
+![Correlation Between Release Year & Viewership](images/correlation_release_year.png)
 ```
 
 ## 📍 Conclusion
@@ -62,4 +72,11 @@ Netflix's content strategy is **data-driven and global-focused**. Based on the a
 - 🔹 **Strengthening investment in non-English content** to expand its global market.  
 - 🔹 **Further analyzing genre preferences** to refine content recommendations.  
 
-*This analysis provides actionable insights to enhance Netflix's content strategy and maximize audience engagement.* 🎮📈
+## 📢 Next Steps
+📺 Future analyses can explore:
+- How different **genres** perform in terms of viewership.
+- The impact of **cast and director reputation** on content success.
+- The influence of **marketing campaigns** on Netflix content engagement.
+
+📩 *Have any insights or feedback? Feel free to contribute or open an issue!*
+
