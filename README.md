@@ -8,7 +8,6 @@ This project analyzes Netflix’s content strategy using Python. We examine how 
 - [Dataset](#dataset)
 - [Objectives](#objectives)
 - [Features & Analysis](#features--analysis)
-- [Key Visualizations](#key-visualizations)
 - [Conclusion](#conclusion)
 - [Next Steps](#next-steps)
 
@@ -53,18 +52,7 @@ The dataset contains information about Netflix content, including:
 - ✅ Statistical Analysis (T-test, Correlation)  
 - ✅ Insights & Business Recommendations  
 
-## 📊 Key Visualizations
-_(Add screenshots of your visualizations)_
-```markdown
-![Top 10 Most Watched Shows]("C:\Users\yp199\Downloads\Top 10 Most Watched Netflix Content.png")
-![Viewership by Release Month](images/monthly_trends.png)
-![Movies vs. Shows Distribution](images/movies_vs_shows.png)
-![Viewership by Season](images/viewership_by_season.png)
-![Language-Based Viewership Trends](images/language_trends.png)
-![Weekly Release Patterns](images/weekly_release_patterns.png)
-![Monthly Release Count vs. Viewership](images/monthly_release_vs_viewership.png)
-![Correlation Between Release Year & Viewership](images/correlation_release_year.png)
-```
+
 
 ## 📍 Conclusion
 Netflix's content strategy is **data-driven and global-focused**. Based on the analysis, key recommendations include:  
