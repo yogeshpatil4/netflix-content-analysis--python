@@ -56,7 +56,7 @@ The dataset contains information about Netflix content, including:
 ## 📊 Key Visualizations
 _(Add screenshots of your visualizations)_
 ```markdown
-![Top 10 Most Watched Shows]![Screenshot 2025-03-22 015023](https://github.com/user-attachments/assets/3971eb22-e7de-4b77-95a0-4e48adf3fe06)
+![Top 10 Most Watched Shows]![Screenshot 2025-03-22 015023]
 
 ![Viewership by Release Month](images/monthly_trends.png)
 ![Movies vs. Shows Distribution](images/movies_vs_shows.png)
